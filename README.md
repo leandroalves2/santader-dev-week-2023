@@ -1,5 +1,5 @@
 # Santander Dev Week 2023
-Java RESTFul API criado para a Santander Dev Week em 2023, porem aplicado em aula da DIO no bootcamp Santander 2024.
+Java RESTFul API criado para a DIO e futuramente uso proprio
 
 ## Diagrama de classes
 ```mermaid
